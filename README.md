@@ -4,3 +4,5 @@
 https://www.mermaidchart.com/
 # 查看域名的地域通信延时
 https://antping.com/
+# 部署gemini生成网页dist文件
+https://app.netlify.com/drop
