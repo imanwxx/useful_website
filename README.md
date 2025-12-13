@@ -12,3 +12,5 @@ https://chili3d.com/
 https://icraft.gantcloud.com/
 # AI3d建模
 https://www.meshy.ai/
+# mixamo
+https://www.mixamo.com/
