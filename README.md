@@ -10,3 +10,5 @@ https://app.netlify.com/drop
 https://chili3d.com/
 # 3d场景搭建
 https://icraft.gantcloud.com/
+# AI3d建模
+https://www.meshy.ai/
