@@ -6,3 +6,7 @@ https://www.mermaidchart.com/
 https://antping.com/
 # 部署gemini生成网页dist文件
 https://app.netlify.com/drop
+# 在线建模网站chili3d
+https://chili3d.com/
+# 3d场景搭建
+https://icraft.gantcloud.com/
