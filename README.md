@@ -14,3 +14,7 @@ https://icraft.gantcloud.com/
 https://www.meshy.ai/
 # mixamo
 https://www.mixamo.com/
+# 复旦ai搜索文献
+https://www.wispaper.ai/en
+# 靠岸AI阅读
+https://www.scholaread.cn/
