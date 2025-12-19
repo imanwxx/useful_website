@@ -18,3 +18,5 @@ https://www.mixamo.com/
 https://www.wispaper.ai/en
 # 靠岸AI阅读
 https://www.scholaread.cn/
+#编程语言对照学习
+https://langshift.dev/zh-cn
