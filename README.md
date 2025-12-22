@@ -23,3 +23,4 @@ https://langshift.dev/zh-cn
 ## vibe coding
 https://bolt.new/
 https://v0.app/
+https://lovable.dev/
